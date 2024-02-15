@@ -3,7 +3,12 @@
 
 - 📫 How to reach me: Please reach out if you are interested in collaborating on a project or are interested in replicating my findings. You can email me at sbtitus@uci.edu 
 
--Pronouns: He/Him
+- Pronouns: He/Him
+
+- Teaching: Statistics 10A, Statistics 10B, Basic Principles of Econcomics 20A
+- Methodological Graduate Classes Taken:
+-     Interview Methods, Graduate Statistics 1-3, Demographic Analysis
+
 
 <!---
 sbtitus/sbtitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
